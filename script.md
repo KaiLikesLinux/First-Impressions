@@ -9,7 +9,7 @@ Inst = DIST_INSTALLER_UTIL \
 Desc = DIST_DESCRIPTION \
 Webs = DIST_WEBSITE \
 Size = DIST_ISO_SIZE \
-Pare = DIST_PARENT \
+Pare = DIST_PARENT 
 
 ## Includes
 - [ ] GUI installer
