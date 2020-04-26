@@ -18,7 +18,9 @@ Pare = DIST_PARENT
 - [ ] Custom Tools
 - [ ] Welcome app
 - [ ] Backgrounds
-- [ ] Default Apps
+
+## Defaults:
+> List default apps
 
 ## Bugs
 > List Bugs Here using unordered lists
