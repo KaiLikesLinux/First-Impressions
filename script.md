@@ -26,7 +26,7 @@ Pare = DIST_PARENT
 > List Bugs Here using unordered lists
 
 ## HTOP
-CPU: Cpu usage
+CPU: Cpu usage \
 MEM: Mem usage (out of 2GB)
 
 ## FDISK
