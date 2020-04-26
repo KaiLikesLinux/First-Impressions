@@ -3,7 +3,7 @@
 ## Base information
 Name = DIST_NAME \
 Vers = DIST_VERSION \
-Arch = DIST_ARCHITECTURE \ 
+Arch = DIST_ARCHITECTURE \
 Desk = DIST_DEFAULT_DE_WM \
 Inst = DIST_INSTALLER_UTIL \
 Desc = DIST_DESCRIPTION \
